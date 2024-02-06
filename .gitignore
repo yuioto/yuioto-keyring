@@ -1,0 +1,10 @@
+# Only necessary file.
+*
+!.gitignore
+
+!README.md
+!LICENSE
+
+!yuioto.gpg
+!yuioto-trusted
+!yuioto-revoked
